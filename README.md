@@ -1,5 +1,5 @@
 <div align=center>
-Hi 👽 
+<h2>Hi 👽</h2> 
 
 ![React Badge](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
